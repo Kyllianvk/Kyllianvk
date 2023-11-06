@@ -8,4 +8,4 @@ Hello there! I'm a 16-year-old student currently in my first year at Hogeschool 
 - **Age**: 16
 - **Location**: The Netherlands
 - **Studies**: First year at Hogeschool Utrecht HBO-ICT
-- **Programming Languages**: Python, Java and more to come!
+- **Programming Languages**: Python, Java and always learning new languages!
