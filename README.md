@@ -5,7 +5,7 @@ Hello there! I'm a 16-year-old student currently in my first year at Hogeschool 
 ## About Me
 
 - **Name**: Kyllian
-- **Age**: 16
+- **Age**: 17
 - **Location**: The Netherlands
 - **Studies**: First year at Hogeschool Utrecht HBO-ICT
-- **Programming Languages**: Python, Java and always learning new languages!
+- **Programming Languages**: Python and currently learning C++
